@@ -1,2 +1,2 @@
 # universal-dotfiles
-Some daily use dotfiles
+Backup of my base dotfiles. Supposed to be compatible with maxos and linux.
