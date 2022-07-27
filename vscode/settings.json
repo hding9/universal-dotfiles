@@ -1,0 +1,42 @@
+{
+    "editor.detectIndentation": false,
+    "vim.useSystemClipboard": true,
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-a>": false,
+        "<C-f>": false,
+        "<C-c>": false,
+        "<C-x>": false,
+        "<C-k>": false
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        },
+    ],
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "notebook.lineNumbers": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "editor.fontFamily": "'Fira code'",
+    "jupyter.askForKernelRestart": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.terminal.activateEnvironment": false,
+    "window.zoomLevel": 1,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "terminal.integrated.inheritEnv": false,
+    "editor.fontSize": 12,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "right"
+    },
+    "workbench.colorTheme": "GitHub Light Colorblind (Beta)"
+}
